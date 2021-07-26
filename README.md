@@ -182,5 +182,5 @@ conda  install Scrapy-User-Agents
 ## Export de données
 L'export des doonnées se fait en ligne de commande avec l'instruction
 ```python
-crapy crawl -o data.json
+crapy crawl crawlhotels -o data.json
 ```
