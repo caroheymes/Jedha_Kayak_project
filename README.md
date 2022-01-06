@@ -184,3 +184,18 @@ L'export des doonnées se fait en ligne de commande avec l'instruction
 ```python
 crapy crawl crawlhotels -o data.json
 ```
+## Cartes
+
+![image](https://user-images.githubusercontent.com/32369680/148317127-4dc73c14-c118-47ed-9aed-f88eab90f358.png)
+
+Map with description of venues : 
+
+![image](https://user-images.githubusercontent.com/32369680/148317659-3d684a46-5313-4fdb-958a-7c4e07d1eeca.png)
+
+![image](https://user-images.githubusercontent.com/32369680/148318210-f3abed60-b0e9-4640-bd81-ec087c5f03a8.png)
+
+![image](https://user-images.githubusercontent.com/32369680/148318300-749e833c-3b3d-4298-90a7-fe9470628ac2.png)
+
+
+
+
