@@ -186,6 +186,8 @@ crapy crawl crawlhotels -o data.json
 ```
 ## Cartes
 
+Le notebook est consultable à l'adresse: https://colab.research.google.com/drive/1R81Bz-WBEtuzCGakiXbX3XqhnSVG-gNW?usp=sharing
+
 ![image](https://user-images.githubusercontent.com/32369680/148317127-4dc73c14-c118-47ed-9aed-f88eab90f358.png)
 
 Map with description of venues : 
